@@ -1,1 +1,1 @@
-# Foudations_of_ML
+# Foundations_of_ML
