@@ -6,9 +6,10 @@
 ## Aim of the course:
 Gain a deep understanding of the concepts, techniques and mathematical frameworks used by experts in machine learning. 
 
-## Topics covered:
+## Topics covered: (-- in progress! --)
   
 - Gradient descent
 - Stochastic gradient descent
 - Ridge regression
 - Lasso regression
+- Elastic Net regression
