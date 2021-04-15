@@ -14,3 +14,4 @@ Gain a deep understanding of the concepts, techniques and mathematical framework
 - Lasso regression
 - Elastic Net regression
 - Support Vector Machines
+- Kernel Methods
